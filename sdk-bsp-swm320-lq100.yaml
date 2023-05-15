@@ -10,8 +10,8 @@ board:
   name: SWM320VET7-SYNWIT-SWXT
   price_cn: 49.00 CNY
   price_global: 7.00 USD
-  sale_contact_cn: http://www.synwit.cn/support.html
-  sale_contact_global: http://www.synwit.cn/support.html
+  sale_contact_cn: https://www.synwit.cn/
+  sale_contact_global: https://www.synwit.cn/
   small_image: documents/images/board_small.png
   vendor: SYNWIT
   version: Rev.A

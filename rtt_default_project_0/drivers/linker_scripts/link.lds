@@ -1,7 +1,7 @@
 /* Program Entry, set to mark it as "used" and avoid gc */
 MEMORY
 {
-    CODE (rx) : ORIGIN = 0x00000000, LENGTH = 512k /* 1024KB flash */
+    CODE (rx) : ORIGIN = 0x00000000, LENGTH = 512k /* 512KB flash */
     DATA (rw) : ORIGIN = 0x20000000, LENGTH =  128k /* 128K sram */
 }
 ENTRY(Reset_Handler)
